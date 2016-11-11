@@ -1,0 +1,6 @@
+keystore pass:
+BalinaSoft
+allias:
+com.balinasoft.casino_slots_x
+password:
+IJWNBbEn
